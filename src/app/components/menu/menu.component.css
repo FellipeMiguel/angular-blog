@@ -1,0 +1,10 @@
+.container__menu > ul {
+  display: flex;
+  flex-direction: row;
+  gap: 1.3rem;
+  list-style: none;
+}
+
+.container__menu > ul > li > a:hover {
+  color: gray;
+}

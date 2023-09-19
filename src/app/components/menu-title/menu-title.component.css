@@ -1,0 +1,11 @@
+.menu-title > h1 {
+  margin: 2rem 0;
+  font-size: 200px;
+  text-align: center;
+  color: #fff;
+}
+
+.menu-title > hr {
+  margin: 20px 0;
+  border: 0.1px solid gray;
+}

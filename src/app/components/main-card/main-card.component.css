@@ -1,0 +1,36 @@
+.main-card {
+  border: 1px solid white;
+  margin: 0 10px;
+  width: 520px;
+  height: 600px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.main-card__photo > img {
+  width: 100%;
+  min-width: 520px;
+}
+
+.main-card__titile {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-card__titile > span {
+  font-size: 0.825rem;
+  color: gray;
+}
+
+.main-card__titile > a {
+  font-size: 2em;
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
+
+.main-card__description > p {
+  color: gray;
+}
