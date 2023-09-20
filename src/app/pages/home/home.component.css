@@ -5,9 +5,3 @@
   justify-content: center;
   gap: 2rem;
 }
-
-header {
-  display: flex;
-  justify-content: center;
-  padding-top: 1rem;
-}

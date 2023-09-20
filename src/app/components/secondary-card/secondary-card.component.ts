@@ -12,4 +12,6 @@ export class SecondaryCardComponent {
   cardTitle = ''
   @Input()
   cardDate = ''
+  @Input()
+  id = '0'
 }

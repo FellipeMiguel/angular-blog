@@ -14,4 +14,6 @@ export class MainCardComponent {
   cardDescription = ''
   @Input()
   cardDate = ''
+  @Input()
+  id = '0'
 }
