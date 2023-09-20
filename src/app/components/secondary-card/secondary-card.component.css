@@ -9,8 +9,9 @@
 }
 
 .secondary-card__photo > img {
-  height: 200px;
-  min-height: 200px;
+  height: 150px;
+  min-height: 150px;
+  width: 300px;
 }
 
 .secondary-card__titile {
@@ -19,6 +20,7 @@
   justify-content: center;
   flex-direction: column;
   position: relative;
+  width: 100%;
 }
 
 .secondary-card__titile > span {
